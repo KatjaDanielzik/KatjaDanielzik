@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatjaDanielzik
-- 👀 I’m interested in mathematical modeling of biological questions
-- 🌱 I’m currently learning to write R-packages
+- 👀 I’m interested in mathematical modeling of biological questions especially longitudinal metabolomics data
+- 🌱 I’m currently learning to write R-packages and create LLM modelfiles
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
 
