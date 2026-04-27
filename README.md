@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KatjaDanielzik
 - 👀 I’m interested in mathematical modeling of biological questions especially of metabolomics and lipidomics data. Have also ventured out into FACS data analysis.
 - 🌱 I’m currently learning to analyze phenotype microarray and lipidomics data.
-- 📫 How to reach me: 
+- 📫 How to reach me: preferably via issues -> will be forwarded to my active email
 - ⚡ Fun fact: Medical Biologist who turned to Bayesian modelling
 
 <!---
